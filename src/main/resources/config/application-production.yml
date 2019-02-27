@@ -1,0 +1,9 @@
+server:
+  servlet:
+    context-path: /api
+  port: 8081
+logging:
+  level:
+    root: warn
+    com.yuki.springbootdemo: info
+  file: logs/my.log

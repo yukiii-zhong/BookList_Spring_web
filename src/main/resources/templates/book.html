@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>书本详情</title>
+
+</head>
+<body>
+    <div>
+        <p>
+            <strong>书名：</strong>
+            <span th:text="${book.name}">HEY</span>
+        </p>
+        <p>
+            <strong>作者：</strong>
+            <span th:text="${book.author}">杨绛</span>
+        </p>
+        <p>
+            <strong>说明：</strong>
+            <span th:text="${book.description}">这是一本小说，不错</span>
+        </p>
+        <p>
+            <strong>状态：</strong>
+            <span th:text="${book.status}">0</span>
+        </p>
+    </div>
+</body>
+<!--<body th:object="${book}">-->
+    <!--<div>-->
+        <!--<p>-->
+            <!--<strong>书名：</strong>-->
+            <!--<span th:text="*{name}">HEY</span>-->
+        <!--</p>-->
+        <!--<p>-->
+            <!--<strong>作者：</strong>-->
+            <!--<span th:text="*{author}">杨绛</span>-->
+        <!--</p>-->
+        <!--<p>-->
+            <!--<strong>说明：</strong>-->
+            <!--<span th:text="*{description}">这是一本小说，不错</span>-->
+        <!--</p>-->
+        <!--<p>-->
+            <!--<strong>状态：</strong>-->
+            <!--<span th:text="*{status}">0</span>-->
+        <!--</p>-->
+    <!--</div>-->
+<!--</body>-->
+</html>

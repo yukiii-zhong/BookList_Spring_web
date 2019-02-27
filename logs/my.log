@@ -1,0 +1,14 @@
+2019-02-19 14:45:01.072  INFO 1500 --- [main] c.y.s.SpringBootDemoApplication          : Starting SpringBootDemoApplication on YuedeMacBook-Pro.local with PID 1500 (/Users/yukizhong/Dropbox/02_Coding/Udemy_Spring_boot/spring-boot-demo2/target/classes started by yukizhong in /Users/yukizhong/Dropbox/02_Coding/Udemy_Spring_boot/spring-boot-demo2)
+2019-02-19 14:45:01.079 DEBUG 1500 --- [main] c.y.s.SpringBootDemoApplication          : Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-02-19 14:45:01.082  INFO 1500 --- [main] c.y.s.SpringBootDemoApplication          : No active profile set, falling back to default profiles: default
+2019-02-19 14:45:03.185  INFO 1500 --- [main] c.y.s.SpringBootDemoApplication          : Started SpringBootDemoApplication in 3.084 seconds (JVM running for 4.439)
+2019-02-19 14:51:33.275  INFO 1680 --- [main] c.y.s.SpringBootDemoApplication          : Starting SpringBootDemoApplication on YuedeMacBook-Pro.local with PID 1680 (/Users/yukizhong/Dropbox/02_Coding/Udemy_Spring_boot/spring-boot-demo2/target/classes started by yukizhong in /Users/yukizhong/Dropbox/02_Coding/Udemy_Spring_boot/spring-boot-demo2)
+2019-02-19 14:51:33.278 DEBUG 1680 --- [main] c.y.s.SpringBootDemoApplication          : Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-02-19 14:51:33.279  INFO 1680 --- [main] c.y.s.SpringBootDemoApplication          : No active profile set, falling back to default profiles: default
+2019-02-19 14:51:35.055  INFO 1680 --- [main] c.y.s.SpringBootDemoApplication          : Started SpringBootDemoApplication in 2.382 seconds (JVM running for 3.277)
+2019-02-19 15:01:40.319  INFO 1711 --- [main] c.y.s.SpringBootDemoApplication          : Starting SpringBootDemoApplication on YuedeMacBook-Pro.local with PID 1711 (/Users/yukizhong/Dropbox/02_Coding/Udemy_Spring_boot/spring-boot-demo2/target/classes started by yukizhong in /Users/yukizhong/Dropbox/02_Coding/Udemy_Spring_boot/spring-boot-demo2)
+2019-02-19 15:01:40.322  INFO 1711 --- [main] c.y.s.SpringBootDemoApplication          : The following profiles are active: production
+2019-02-19 15:01:41.903  INFO 1711 --- [main] c.y.s.SpringBootDemoApplication          : Started SpringBootDemoApplication in 2.03 seconds (JVM running for 2.629)
+2019-02-19 15:02:49.315  INFO 1731 --- [main] c.y.s.SpringBootDemoApplicationTests     : Starting SpringBootDemoApplicationTests on YuedeMacBook-Pro.local with PID 1731 (started by yukizhong in /Users/yukizhong/Dropbox/02_Coding/Udemy_Spring_boot/spring-boot-demo2)
+2019-02-19 15:02:49.317  INFO 1731 --- [main] c.y.s.SpringBootDemoApplicationTests     : The following profiles are active: production
+2019-02-19 15:02:51.356  INFO 1731 --- [main] c.y.s.SpringBootDemoApplicationTests     : Started SpringBootDemoApplicationTests in 2.523 seconds (JVM running for 3.507)
